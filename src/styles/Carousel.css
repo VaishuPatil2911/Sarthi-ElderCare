@@ -1,0 +1,14 @@
+.carousel-item img {
+    height: 500px;
+}
+
+.carousel-caption h5 {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.carousel-caption p {
+    font-size: 16px;
+    color: lightgray;
+}
