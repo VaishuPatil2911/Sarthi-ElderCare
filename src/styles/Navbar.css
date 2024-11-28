@@ -9,3 +9,7 @@
 .nav-link:hover {
     font-weight: 600;
 }
+
+.nav-link.active {
+    font-weight: 1000;
+}

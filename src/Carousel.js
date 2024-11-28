@@ -12,7 +12,7 @@ const Carousel = () => (
       <div className="carousel-item active">
         <img src="/carousel1.jpg" className="d-block w-100" alt="Slide 1" style={{ height: '500px' }} />
         <div className="carousel-caption d-none d-md-block">
-          <h5>Your Trusted Partner in Sarthi ElderCare</h5>
+          <h5>Your Trusted Partner is Sarthi ElderCare</h5>
           <p>Reliable, respectful, and round-the-clock care for your loved ones</p>
         </div>
       </div>
